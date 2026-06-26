@@ -80,7 +80,7 @@ Shivalika Katoch
 
 [LinkedIn](https://www.linkedin.com/in/shivalika-katoch-da)
 
-[GitHub](https://github.com/shivalikakatoch01-design)
+
 
 \[GitHub](https://github.com/shivalikakatoch01-design)
 
