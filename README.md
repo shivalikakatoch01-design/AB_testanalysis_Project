@@ -1,86 +1,86 @@
-\# A/B Test Analysis — Landing Page Conversion
+# A/B Test Analysis — Landing Page Conversion
 
 
 
-\## Overview
+## Overview
 
 I analyzed an e-commerce A/B test to determine whether a new landing page leads to a statistically significant increase in conversions.
 
 
 
-\## Dataset
+## Dataset
 
 The dataset (`ab\_data.csv`) is included in this repo.
 
 
 
-\*\*Original source:\*\* https://www.kaggle.com/datasets/zhangluyuan/ab-testing
+**Original source:** https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 
 
 
-\## Tools \& Libraries Used
+## Tools & Libraries Used
 
-\- Python
+- Python
 
-\- pandas
+- pandas
 
-\- matplotlib / seaborn
+- matplotlib / seaborn
 
-\- scipy / statsmodels
+- scipy / statsmodels
 
-\- Jupyter Notebook
-
-
-
-\## Key Insights
-
-\- Control conversion rate: 12.04%, Treatment: 11.89% — treatment performed slightly worse
-
-\- p-value: 0.2161 — result is NOT statistically significant
-
-\- Chi-square test confirmed the same result
-
-\- Weekend vs weekday traffic showed no meaningful confounder effect
-
-\- Statistical power was only 0.23 — the test was underpowered for this effect size
-
-\- \*\*Recommendation: Do not roll out the new landing page\*\*
+- Jupyter Notebook
 
 
 
-\## Visualizations
+## Key Insights
 
-!\[Conversion Rate by Group](images/conversion\_rate.png)
+- Control conversion rate: 12.04%, Treatment: 11.89% — treatment performed slightly worse
 
-!\[Converted Count](images/converted\_count.png)
+- p-value: 0.2161 — result is NOT statistically significant
 
-!\[Page Conversion](images/page\_conversion.png)
+- Chi-square test confirmed the same result
 
-!\[Group Heatmap](images/group\_heatmap.png)
+- Weekend vs weekday traffic showed no meaningful confounder effect
 
-!\[Confidence Interval Plot](images/ci\_plot.png)
+- Statistical power was only 0.23 — the test was underpowered for this effect size
 
-
-
-\## How to Run
-
-1\. Clone this repository
-
-2\. Open `ab\_test\_analysis.ipynb` in Jupyter Notebook
-
-3\. Run all cells
+- **Recommendation: Do not roll out the new landing page**
 
 
 
-\## Author
+## Visualizations
+
+![Conversion Rate by Group](images/conversion_rate.png)
+
+![Converted Count](images/converted_count.png)
+
+![Page Conversion](images/page_conversion.png)
+
+![Group Heatmap](images/group_heatmap.png)
+
+![Confidence Interval Plot](images/ci_plot.png)
+
+
+
+## How to Run
+
+1. Clone this repository
+
+2. Open `ab_test_analysis.ipynb` in Jupyter Notebook
+
+3. Run all cells
+
+
+
+## Author
 
 Shivalika Katoch
 
 
 
-\[LinkedIn](https://www.linkedin.com/in/shivalika-katoch-da)
+[LinkedIn](https://www.linkedin.com/in/shivalika-katoch-da)
 
-
+[GitHub](https://github.com/shivalikakatoch01-design)
 
 \[GitHub](https://github.com/shivalikakatoch01-design)
 
