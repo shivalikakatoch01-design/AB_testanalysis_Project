@@ -82,5 +82,5 @@ Shivalika Katoch
 
 
 
-\[GitHub](https://github.com/shivalikakatoch01-design)
+[GitHub](https://github.com/shivalikakatoch01-design)
 
